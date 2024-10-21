@@ -130,6 +130,7 @@
     <ClCompile Include="06-introduction-to-programming-using-cpp-level-2.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="L34_CreatingReferences.h" />
     <ClInclude Include="L02_BreakpointAndMemoryValues.h" />
     <ClInclude Include="L08h_MyFirstLib.h" />
     <ClInclude Include="L08h_Salary.h" />

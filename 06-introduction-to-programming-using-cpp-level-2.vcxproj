@@ -157,6 +157,7 @@
     <ClInclude Include="L28_VectorIntroductionDeclarationandInitialization.h" />
     <ClInclude Include="L29_VectorAddElements.h" />
     <ClInclude Include="L30_VectorOfStructure.h" />
+    <ClInclude Include="L35_WhatIsPointer.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -23,6 +23,7 @@
 #include "L29_VectorAddElements.h"
 #include "L30_VectorOfStructure.h"
 #include "L34_CreatingReferences.h"
+#include "L35_WhatIsPointer.h"
 
 
 
@@ -31,7 +32,7 @@ using namespace std;
 int main()
 {
 
-	L34_CreatingReferences::Task();
+	L35_WhatIsPointer::Task();  
 
 
 }

@@ -101,5 +101,8 @@
     <ClInclude Include="L34_CreatingReferences.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L35_WhatIsPointer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

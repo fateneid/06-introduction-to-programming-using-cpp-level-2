@@ -24,7 +24,7 @@
 #include "L30_VectorOfStructure.h"
 #include "L34_CreatingReferences.h"
 #include "L35_WhatIsPointer.h"
-
+#include "L36_DereferencingPointer.h"
 
 
 using namespace std;
@@ -32,7 +32,7 @@ using namespace std;
 int main()
 {
 
-	L35_WhatIsPointer::Task();  
+	L36_DereferencingPointer::Task();
 
 
 }

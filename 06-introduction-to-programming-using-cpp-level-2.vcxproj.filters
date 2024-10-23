@@ -107,5 +107,8 @@
     <ClInclude Include="L36_DereferencingPointer.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L37_CommonMistakesWithPointers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

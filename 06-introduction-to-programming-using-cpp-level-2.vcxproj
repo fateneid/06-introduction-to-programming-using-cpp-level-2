@@ -160,6 +160,7 @@
     <ClInclude Include="L35_WhatIsPointer.h" />
     <ClInclude Include="L36_DereferencingPointer.h" />
     <ClInclude Include="L37_CommonMistakesWithPointers.h" />
+    <ClInclude Include="L39_CallByReferenceAndUsingPointers.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

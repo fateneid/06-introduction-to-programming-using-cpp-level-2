@@ -110,5 +110,8 @@
     <ClInclude Include="L37_CommonMistakesWithPointers.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L39_CallByReferenceAndUsingPointers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

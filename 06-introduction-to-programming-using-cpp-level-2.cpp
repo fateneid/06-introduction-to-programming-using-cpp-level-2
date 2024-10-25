@@ -26,6 +26,7 @@
 #include "L35_WhatIsPointer.h"
 #include "L36_DereferencingPointer.h"
 #include "L37_CommonMistakesWithPointers.h"
+#include "L39_CallByReferenceAndUsingPointers.h"
 
 
 using namespace std;
@@ -33,7 +34,7 @@ using namespace std;
 int main()
 {
 
-	L37_CommonMistakesWithPointers::Task();
+	L39_CallByReferenceAndUsingPointers::Task();
 
 
 }

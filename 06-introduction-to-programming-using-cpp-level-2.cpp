@@ -30,6 +30,11 @@
 #include "L40_PointersAndArrays.h"
 #include "L41_PointersAndStructure.h"
 #include "L42_PointerToVoid.h"
+#include "L43_MemoryManagementNewAndDelete.h"
+#include "L44_DynamicArraysNewAndDelete.h"
+#include "L46_AccessElementsInVector.h"
+#include "L47_ChangeElementsInVector.h"
+#include "L48_VectorIterators.h"
 
 
 using namespace std;
@@ -37,7 +42,7 @@ using namespace std;
 int main()
 {
 
-	L41_PointersAndStructure::Task();
+	L48_VectorIterators::Task();
 
 
 }

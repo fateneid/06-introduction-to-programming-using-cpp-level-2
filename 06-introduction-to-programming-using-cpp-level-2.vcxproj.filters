@@ -122,5 +122,20 @@
     <ClInclude Include="L42_PointerToVoid.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L43_MemoryManagementNewAndDelete.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L44_DynamicArraysNewAndDelete.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L46_AccessElementsInVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L47_ChangeElementsInVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L48_VectorIterators.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

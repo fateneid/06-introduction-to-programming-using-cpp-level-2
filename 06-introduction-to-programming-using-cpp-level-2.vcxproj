@@ -164,6 +164,11 @@
     <ClInclude Include="L39_CallByReferenceAndUsingPointers.h" />
     <ClInclude Include="L40_PointersAndArrays.h" />
     <ClInclude Include="L42_PointerToVoid.h" />
+    <ClInclude Include="L43_MemoryManagementNewAndDelete.h" />
+    <ClInclude Include="L44_DynamicArraysNewAndDelete.h" />
+    <ClInclude Include="L46_AccessElementsInVector.h" />
+    <ClInclude Include="L47_ChangeElementsInVector.h" />
+    <ClInclude Include="L48_VectorIterators.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

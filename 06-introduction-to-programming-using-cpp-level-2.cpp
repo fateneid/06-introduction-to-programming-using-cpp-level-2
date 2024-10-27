@@ -28,6 +28,7 @@
 #include "L37_CommonMistakesWithPointers.h"
 #include "L39_CallByReferenceAndUsingPointers.h"
 #include "L40_PointersAndArrays.h"
+#include "L41_PointersAndStructure.h"
 
 
 using namespace std;
@@ -35,7 +36,7 @@ using namespace std;
 int main()
 {
 
-	L40_PointersAndArrays::Task();
+	L41_PointersAndStructure::Task();
 
 
 }

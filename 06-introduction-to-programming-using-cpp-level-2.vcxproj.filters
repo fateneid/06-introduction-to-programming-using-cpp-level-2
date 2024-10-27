@@ -116,5 +116,8 @@
     <ClInclude Include="L40_PointersAndArrays.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L41_PointersAndStructure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

@@ -46,6 +46,15 @@ namespace L41_PointersAndStructure {
         //From L42_PointerToVoid Lesson
         cout << (static_cast<stEmployee*>(ptr)) << endl;
 
+        cout << (*static_cast<stEmployee*>(ptr)).Name << endl;
+        cout << (*static_cast<stEmployee*>(ptr)).Salary << endl;
+
+        cout << (static_cast<stEmployee*>(ptr))->Name << endl;
+        cout << (static_cast<stEmployee*>(ptr))->Salary << endl;
+
+
+
+
 
     }
 

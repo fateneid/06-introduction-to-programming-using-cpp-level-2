@@ -14,16 +14,22 @@ namespace L40_PointersAndArrays {
 		//ptr + 1 is equivalent to &arr[1];
 		//ptr + 2 is equivalent to &arr[2];
 		//ptr + 3 is equivalent to &arr[3];
+
 		cout << "Addresses are:\n";
 		cout << ptr << endl;
 		cout << ptr + 1 << endl;
 		cout << ptr + 2 << endl;
 		cout << ptr + 3 << endl;
+
+		
 		cout << "\nValues are: \n";
-		cout << *(ptr) << endl;
-		cout << *(ptr + 1) << endl;
-		cout << *(ptr + 2) << endl;
-		cout << *(ptr + 3) << endl;
+
+		for (int i = 0; i <= 3; i++) {
+
+			cout << *(ptr + i) << endl;
+
+		}
+
 	}
 
 }

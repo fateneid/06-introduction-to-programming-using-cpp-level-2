@@ -43,6 +43,7 @@
 #include "L54_ReadModePrintFileContent.h"
 #include "L55_LoadDataFromFileToVector.h"
 #include "L56_SaveVectorToFile.h"
+#include "L57_DeleteRecordFromFile.h"
 
 
 using namespace std;
@@ -50,7 +51,7 @@ using namespace std;
 int main()
 {
 
-	L56_SaveVectorToFile::Task();
+	L57_DeleteRecordFromFile::Task();
 
 
 }

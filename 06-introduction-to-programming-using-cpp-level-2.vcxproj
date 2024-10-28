@@ -177,6 +177,7 @@
     <ClInclude Include="L54_ReadModePrintFileContent.h" />
     <ClInclude Include="L55_LoadDataFromFileToVector.h" />
     <ClInclude Include="L56_SaveVectorToFile.h" />
+    <ClInclude Include="L57_DeleteRecordFromFile.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

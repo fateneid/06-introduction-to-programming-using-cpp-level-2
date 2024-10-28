@@ -161,5 +161,8 @@
     <ClInclude Include="L56_SaveVectorToFile.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L57_DeleteRecordFromFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

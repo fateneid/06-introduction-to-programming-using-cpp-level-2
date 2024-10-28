@@ -42,6 +42,7 @@
 #include "L53_AppendModeAppendDataToFile.h"
 #include "L54_ReadModePrintFileContent.h"
 #include "L55_LoadDataFromFileToVector.h"
+#include "L56_SaveVectorToFile.h"
 
 
 using namespace std;
@@ -49,7 +50,7 @@ using namespace std;
 int main()
 {
 
-	L55_LoadDataFromFileToVector::Task();
+	L56_SaveVectorToFile::Task();
 
 
 }

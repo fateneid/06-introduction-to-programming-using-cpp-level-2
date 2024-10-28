@@ -158,5 +158,8 @@
     <ClInclude Include="L55_LoadDataFromFileToVector.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L56_SaveVectorToFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

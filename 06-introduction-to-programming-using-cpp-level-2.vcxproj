@@ -170,6 +170,12 @@
     <ClInclude Include="L47_ChangeElementsInVector.h" />
     <ClInclude Include="L48_VectorIterators.h" />
     <ClInclude Include="L49_TryCatch.h" />
+    <ClInclude Include="L50_StringObjectCommonMethods.h" />
+    <ClInclude Include="L51_SomeCCTYPEFunctions.h" />
+    <ClInclude Include="L52_WriteModeWriteDataToFile.h" />
+    <ClInclude Include="L53_AppendModeAppendDataToFile.h" />
+    <ClInclude Include="L54_ReadModePrintFileContent.h" />
+    <ClInclude Include="L55_LoadDataFromFileToVector.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

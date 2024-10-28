@@ -140,5 +140,23 @@
     <ClInclude Include="L49_TryCatch.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L50_StringObjectCommonMethods.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L51_SomeCCTYPEFunctions.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L52_WriteModeWriteDataToFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L53_AppendModeAppendDataToFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L54_ReadModePrintFileContent.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L55_LoadDataFromFileToVector.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

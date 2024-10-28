@@ -36,6 +36,12 @@
 #include "L47_ChangeElementsInVector.h"
 #include "L48_VectorIterators.h"
 #include "L49_TryCatch.h"
+#include "L50_StringObjectCommonMethods.h"
+#include "L51_SomeCCTYPEFunctions.h"
+#include "L52_WriteModeWriteDataToFile.h"
+#include "L53_AppendModeAppendDataToFile.h"
+#include "L54_ReadModePrintFileContent.h"
+#include "L55_LoadDataFromFileToVector.h"
 
 
 using namespace std;
@@ -43,7 +49,7 @@ using namespace std;
 int main()
 {
 
-	L49_TryCatch::Task();
+	L55_LoadDataFromFileToVector::Task();
 
 
 }

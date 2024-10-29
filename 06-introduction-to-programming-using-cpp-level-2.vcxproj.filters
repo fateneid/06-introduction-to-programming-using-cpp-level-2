@@ -164,5 +164,14 @@
     <ClInclude Include="L57_DeleteRecordFromFile.h">
       <Filter>Header Files</Filter>
     </ClInclude>
+    <ClInclude Include="L58_UpdateRecordInFile.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L59_DatetimeLocalUTCTime.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="L60_DatetimeStructure.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>

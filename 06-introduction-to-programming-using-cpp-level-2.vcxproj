@@ -130,6 +130,7 @@
     <ClCompile Include="06-introduction-to-programming-using-cpp-level-2.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="L60_DatetimeStructure.h" />
     <ClInclude Include="L41_PointersAndStructure.h" />
     <ClInclude Include="L34_CreatingReferences.h" />
     <ClInclude Include="L02_BreakpointAndMemoryValues.h" />
@@ -178,6 +179,8 @@
     <ClInclude Include="L55_LoadDataFromFileToVector.h" />
     <ClInclude Include="L56_SaveVectorToFile.h" />
     <ClInclude Include="L57_DeleteRecordFromFile.h" />
+    <ClInclude Include="L58_UpdateRecordInFile.h" />
+    <ClInclude Include="L59_DatetimeLocalUTCTime.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
